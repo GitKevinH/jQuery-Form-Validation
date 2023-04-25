@@ -1,0 +1,11 @@
+{
+  "name": "jquery-form-validation",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "jquery-form-validation.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kevin H",
+  "license": "ISC"
+}
